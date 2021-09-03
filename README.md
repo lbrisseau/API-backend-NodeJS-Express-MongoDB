@@ -1,4 +1,4 @@
-# CoursOC-NodeJS-Express-MongoDB
+# API Backend en NodeJS-Express-MongoDB
 
 API fonctionelle pour mise en place du CRUD d'un Product avec 5 routes :
 
