@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const Product = require('./models/Product');
 
-mongoose.connect('mongodb+srv://lionel:LKyeV343JQkV3jIQ@cluster0.svgkd.mongodb.net/test?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://login:password@XXXXXXX.mongodb.net/test?retryWrites=true&w=majority',
   { useNewUrlParser: true,
     useUnifiedTopology: true })
   .then(() => console.log('Connexion à MongoDB réussie !'))
