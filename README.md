@@ -1,6 +1,6 @@
 # API Backend en NodeJS-Express-MongoDB
 
-API fonctionelle pour mise en place du CRUD d'un Product avec 5 routes :
+API fonctionelle pour mise en place du CRUD pour un object Product via les 5 routes suivantes :
 
 # GET: /api/products
 Retournera tous les produits sous la forme { products: Product[] }
